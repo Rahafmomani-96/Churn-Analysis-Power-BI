@@ -43,4 +43,4 @@ To open and use the report:
 - Evaluate churn trends over time
 - Drive business decisions to improve customer loyalty
 - Segment customers by key behavioral and demographic attributes
-- 
+
